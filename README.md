@@ -19,3 +19,19 @@ Detecting drone bee and worker bee:
 </br>
 Detecting worker bees:
 <p><img align="left" src="https://github.com/Marius-Graml/Object_Detection_System/blob/main/gifs/worker_bee_detection.gif" width="500" height="320" /></p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+Detecting varroa mites:
+<p><img align="left" src="https://github.com/Marius-Graml/Object_Detection_System/blob/main/gifs/varroa_mite_detection.gif" width="500" height="320" /></p>
