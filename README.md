@@ -1,4 +1,4 @@
 # Object_Detection_System
 Assignment 3 and 4 for AI and DL lecture
 
-![enter image description here](https://i.ibb.co/7SdTgF6/Drone-bee-vid-1-1-Slomo-1.gif)
+<p><img align="right" src="https://github.com/Marius-Graml/Object_Detection_System/blob/main/gifs/drone_bee_detection.gif" width="500" height="320" /></p>
