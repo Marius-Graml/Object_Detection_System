@@ -1,7 +1,7 @@
 # Object_Detection_System
 <h2>Assignment 3 and 4 for AI and DL lecture</h2>
 </br>
-<h3>Real-time Detections</h3>
+<h3>Real-time Detection</h3>
 Detecting drone bee and worker bee:
 <p><img align="left" src="https://github.com/Marius-Graml/Object_Detection_System/blob/main/gifs_and_images/drone_bee_detection.gif" width="500" height="320" /></p>
 </br>
@@ -50,7 +50,7 @@ Detecting varroa mites:
 </br>
 </br>
 </br>
-<h3>Image detection</h3>
+<h3>Image Detection</h3>
 <p><img align="left" src="https://github.com/Marius-Graml/Object_Detection_System/blob/main/gifs_and_images/Test_batch_labels.jpg" width="700" height="520" /></p>
 Associated learning curve:
 <p><img align="left" src="https://github.com/Marius-Graml/Object_Detection_System/blob/main/gifs_and_images/learning_curve.jpg" width="500" height="320" /></p>
