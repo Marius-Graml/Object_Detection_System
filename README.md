@@ -51,6 +51,9 @@ Detecting varroa mites:
 </br>
 </br>
 <h3>Image Detection</h3>
+Labels of test batch:
 <p><img align="left" src="https://github.com/Marius-Graml/Object_Detection_System/blob/main/gifs_and_images/Test_batch_labels.jpg" width="700" height="520" /></p>
+Predictions of test batch:
+<p><img align="left" src="https://github.com/Marius-Graml/Object_Detection_System/blob/main/gifs_and_images/Test_batch_predictions.jpg" width="700" height="520" /></p>
 Associated learning curve:
 <p><img align="left" src="https://github.com/Marius-Graml/Object_Detection_System/blob/main/gifs_and_images/learning_curve.jpg" width="500" height="320" /></p>
