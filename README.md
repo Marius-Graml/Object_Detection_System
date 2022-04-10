@@ -1,4 +1,4 @@
-# Object_Detection_System
+# Object Detection System
 <h2>Assignment 3 and 4 for AI and DL lecture</h2>
 </br>
 <h3>Real-time Detection</h3>
