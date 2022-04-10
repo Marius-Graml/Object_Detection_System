@@ -1,6 +1,7 @@
 # Object_Detection_System
 <h2>Assignment 3 and 4 for AI and DL lecture</h2>
 </br>
+<h3>Real-time Detections</h3>
 Detecting drone bee and worker bee:
 <p><img align="left" src="https://github.com/Marius-Graml/Object_Detection_System/blob/main/gifs_and_images/drone_bee_detection.gif" width="500" height="320" /></p>
 </br>
